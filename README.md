@@ -1,1 +1,17 @@
 # BIG-DATA-ANALYTICS
+
+COMPANY: CODTEC IT SOLUTION
+
+NAME: TEJAS D
+
+INTERN ID:CTIS5463
+
+DOMAIN: DATA ANSLYTICS 
+
+DURATION:4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+
+## I have used vs code to generate code and i have also got the output
+
