@@ -15,5 +15,9 @@ MENTOR: NEELA SANTOSH
 
 ## I have used vs code to generate code and i have also got the output
 
-#OUTPUT: 
+#OUTPUT OF TASK ONE:
 ![Image](https://github.com/user-attachments/assets/8a19063c-db27-474a-93b4-89f691a781e2)
+
+
+# OUTPUT OF TASK TWO:
+![Image](https://github.com/user-attachments/assets/fd5d37fe-080d-47a7-a3a6-70bba6dfa4fa)
