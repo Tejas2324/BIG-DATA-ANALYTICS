@@ -23,4 +23,4 @@ MENTOR: NEELA SANTOSH
 ![Image](https://github.com/user-attachments/assets/fd5d37fe-080d-47a7-a3a6-70bba6dfa4fa)
 
 # OUTPUT OF TASK THREE:
-![Image](https://github.com/user-attachments/assets/49535020-c4a8-488d-8dad-0a4e8088b2f8
+![Image](https://github.com/user-attachments/assets/2b175431-d245-4144-8276-074a775e6321)
