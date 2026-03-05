@@ -15,12 +15,17 @@ MENTOR: NEELA SANTOSH
 
 ## I have used vs code to generate code and i have also got the output
 
-#OUTPUT OF TASK ONE:
+#OUTPUT OF TASK ONE(1):
 ![Image](https://github.com/user-attachments/assets/8a19063c-db27-474a-93b4-89f691a781e2)
 
 
-# OUTPUT OF TASK TWO:
+# OUTPUT OF TASK TWO(2):
 ![Image](https://github.com/user-attachments/assets/fd5d37fe-080d-47a7-a3a6-70bba6dfa4fa)
+ 
 
-# OUTPUT OF TASK THREE:
+# OUTPUT OF TASK THREE(3):
 ![Image](https://github.com/user-attachments/assets/2b175431-d245-4144-8276-074a775e6321)
+
+
+#OUTPUT OF TASK FOUR(4):
+![Image](https://github.com/user-attachments/assets/c4b8d185-9b42-44ca-9c4e-77b7b0a132cb)
